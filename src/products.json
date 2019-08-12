@@ -1,0 +1,235 @@
+[
+        {
+        "id": 1,
+        "name": "Air Max",
+        "brand": "Nike",
+        "size": [
+            {
+                "sizeName": "M",
+                "count": 3
+            },
+            {
+                "sizeName": "L",
+                "count": 5
+            }
+        ],
+        "price": 6900,
+        "gender": "female",
+        "discount": 0.25,
+        "isPresent": true,
+        "imgSrc": "https://images11.cosmopolitan.ru/upload/custom/8ec/8eceff056ff4d5ae2075eafbf3da5650.jpg",
+        "addedToCart": false
+    },
+
+    {
+        "id": 2,
+        "name": "Air Max 2",
+        "brand": "Addidas",
+        "size": [
+            {
+                "sizeName": "M",
+                "count": 13
+            },
+            {
+                "sizeName": "L",
+                "count": 51
+            }
+        ],
+        "price": 3800,
+        "gender": "male",
+        "discount": 0.75,
+        "isPresent": true,
+        "imgSrc": "https://wladnashop.com.ua/content/images/33/botinki_kozhanye839-62685156737764.jpg",
+        "addedToCart": false
+    },
+
+    {
+        "id": 3,
+        "name": "Air Max 3",
+        "brand": "Nike",
+        "size": [
+            {
+                "sizeName": "M",
+                "count": 3
+            },
+            {
+                "sizeName": "L",
+                "count": 5
+            }
+        ],
+        "price": 3500,
+        "gender": "male",
+        "discount": 0.5,
+        "isPresent": true,
+        "imgSrc": "http://lapti.life/uploads/shop/items/i49345/big-kozhanye-chernye-vysokie-botinki-na-svintsovo-serom-mehu-w.jpg",
+        "addedToCart": false
+    },
+
+{
+    "id": 4,
+    "name": "Air Max 4",
+    "brand": "Nike",
+    "size": [
+        {
+            "sizeName": "M",
+            "count": 3
+        },
+        {
+            "sizeName": "L",
+            "count": 5
+        }
+    ],
+    "price": 4200,
+    "gender": "female",
+    "discount": 0.25,
+    "isPresent": true,
+    "imgSrc": "https://i2.rozetka.ua/goods/2147619/caterpillar_0018463683234_images_2147619258.jpg",
+    "addedToCart": false
+},
+
+{
+    "id": 5,
+    "name": "Air Max 5",
+    "brand": "Nike",
+    "size": [
+        {
+            "sizeName": "M",
+            "count": 3
+        },
+        {
+            "sizeName": "L",
+            "count": 5
+        }
+    ],
+    "price": 1700,
+    "gender": "male",
+    "discount": 0.25,
+    "isPresent": true,
+    "imgSrc": "https://velour.ua/media/catalog/product/d/s/dsc_0033_4_26.jpg",
+    "addedToCart": false
+}, 
+
+
+
+
+
+{
+    "id": 6,
+    "name": "Air Max 6",
+    "brand": "Nike",
+    "size": [
+        {
+            "sizeName": "M",
+            "count": 3
+        },
+        {
+            "sizeName": "L",
+            "count": 5
+        }
+    ],
+    "price": 6900,
+    "gender": "female",
+    "discount": 0.25,
+    "isPresent": true,
+    "imgSrc": "https://images11.cosmopolitan.ru/upload/custom/8ec/8eceff056ff4d5ae2075eafbf3da5650.jpg",
+    "addedToCart": false
+},
+
+{
+    "id": 7,
+    "name": "Air Max 7",
+    "brand": "Nike",
+    "size": [
+        {
+            "sizeName": "M",
+            "count": 3
+        },
+        {
+            "sizeName": "L",
+            "count": 5
+        }
+    ],
+    "price": 3800,
+    "gender": "male",
+    "discount": 0.25,
+    "isPresent": true,
+    "imgSrc": "https://wladnashop.com.ua/content/images/33/botinki_kozhanye839-62685156737764.jpg",
+    "addedToCart": false
+},
+
+{
+    "id": 8,
+    "name": "Air Max 8",
+    "brand": "Nike",
+    "size": [
+        {
+            "sizeName": "M",
+            "count": 3
+        },
+        {
+            "sizeName": "L",
+            "count": 5
+        }
+    ],
+    "price": 3500,
+    "gender": "male",
+    "discount": 0.25,
+    "isPresent": true,
+    "imgSrc": "http://lapti.life/uploads/shop/items/i49345/big-kozhanye-chernye-vysokie-botinki-na-svintsovo-serom-mehu-w.jpg",
+    "addedToCart": false
+},
+
+{
+"id": 9,
+"name": "Air Max 9",
+"brand": "Nike",
+"size": [
+    {
+        "sizeName": "M",
+        "count": 3
+    },
+    {
+        "sizeName": "L",
+        "count": 5
+    }
+],
+"price": 4200,
+"gender": "female",
+"discount": 0.25,
+"isPresent": true,
+"imgSrc": "https://i2.rozetka.ua/goods/2147619/caterpillar_0018463683234_images_2147619258.jpg",
+"addedToCart": false
+},
+
+{
+"id": 10,
+"name": "Air Max 10",
+"brand": "Nike",
+"size": [
+    {
+        "sizeName": "M",
+        "count": 3
+    },
+    {
+        "sizeName": "L",
+        "count": 5
+    }
+],
+"price": 1700,
+"gender": "male",
+"discount": 0.25,
+"isPresent": true,
+"imgSrc": "https://velour.ua/media/catalog/product/d/s/dsc_0033_4_26.jpg",
+"addedToCart": false
+}
+
+
+
+
+
+
+
+
+
+]
+
